@@ -1,2 +1,4 @@
 file-1 file2
 Hi Hello How r u ?
+Updating in dev branch in remote repository
+Test for fetch
