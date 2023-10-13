@@ -6,3 +6,5 @@ Test for pull
 Test for SSH Key connect
 adding new line for push test 
 adding new line for push test
+Added line to check cherry-pick (commit for new.txt)
+Added line 2 to check cherry-pick (commit 2 for new.txt)
