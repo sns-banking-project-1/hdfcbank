@@ -4,3 +4,4 @@ Added a line in remote repository
 aaaa
 bb
 Added line in repository for git pull
+added line for git fetch
